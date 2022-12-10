@@ -18,7 +18,6 @@ public class Task3 {
         Scanner input = new Scanner(System.in);
         int size = input.nextInt();
         int[] array1 = new int[size];
-//        System.out.println("Введите значения элементов массива: ");
         for (int i = 0; i < size; i++) {
             Random ran = new Random();
             array1[i] = ran.nextInt(1001);
