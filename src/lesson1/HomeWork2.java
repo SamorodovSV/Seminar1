@@ -2,7 +2,7 @@ package lesson1;
 
 public class HomeWork2 {
     public static void main(String[] args) {
-
+       // Посмотрите на код, и подумайте сколько разных типов исключений вы тут сможете получить?
 
     }
 
